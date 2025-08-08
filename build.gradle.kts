@@ -8,15 +8,23 @@ plugins {
     alias(libs.plugins.taskTree)
 }
 
-group = "org.danilopianini"
+group = "it.unibo.alchemist"
 
 repositories {
     mavenCentral()
 }
 
 dependencies {
+    implementation(libs.alchemist)
+    implementation(libs.alchemist.loading)
+    with(libs.apache.commons) {
+        implementation(cli)
+        implementation(io)
+    }
+    implementation(libs.guava)
+    implementation(libs.logback)
     implementation(libs.kotlin.stdlib)
-    testImplementation(libs.bundles.kotlin.testing)
+    implementation(libs.resourceloader)
 }
 
 kotlin {
@@ -24,6 +32,10 @@ kotlin {
         allWarningsAsErrors = true
         freeCompilerArgs = listOf("-opt-in=kotlin.RequiresOptIn")
     }
+}
+
+multiJvm {
+    jvmVersionForCompilation = 17
 }
 
 tasks.test {
@@ -41,24 +53,25 @@ tasks.test {
 }
 
 signing {
-    val signingKey: String? by project
-    val signingPassword: String? by project
-    useInMemoryPgpKeys(signingKey, signingPassword)
+    if (System.getenv("CI") == "true") {
+        val signingKey: String? by project
+        val signingPassword: String? by project
+        useInMemoryPgpKeys(signingKey, signingPassword)
+    }
 }
 
 publishOnCentral {
-    repoOwner = "DanySK"
-    projectLongName.set("Template Kotlin JVM Project")
-    projectDescription.set("A template repository for Kotlin JVM projects")
-    repository("https://maven.pkg.github.com/danysk/${rootProject.name}".lowercase()) {
-        user.set("DanySK")
-        password.set(System.getenv("GITHUB_TOKEN"))
-    }
+    repoOwner = "AlchemistSimulator"
+    projectLongName.set("Alchemist-MultiVeSTa adapter")
+    projectDescription.set("Uses alchemist within multivesta")
     publishing {
         publications {
             withType<MavenPublication> {
                 pom {
                     developers {
+                        developer {
+                            name.set("Gianmarco Magnani")
+                        }
                         developer {
                             name.set("Danilo Pianini")
                             email.set("danilo.pianini@gmail.com")
