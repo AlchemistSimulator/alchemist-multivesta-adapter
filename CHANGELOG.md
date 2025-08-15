@@ -1,3 +1,28 @@
+## 1.0.0 (2025-08-15)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v42.2.9 ([#20](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/20)) ([124fb01](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/124fb016c51f4f1276c9bb00f745b079e374ba91))
+* **deps:** update plugin gitsemver to v5.1.8 ([#9](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/9)) ([a1f1d85](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/a1f1d85b1c57b332de3723a6bcaace9beb6d6073))
+* **deps:** update plugin gitsemver to v6 ([#10](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/10)) ([a7e421e](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/a7e421e890281239ed817bad129ebbae82a41934))
+* **deps:** update plugin gitsemver to v6.0.1 ([#18](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/18)) ([b7d66b8](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/b7d66b805f92361d9b36a7f3ccec45ac0248029e))
+* **deps:** update plugin multijvmtesting to v3.6.1 ([#3](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/3)) ([0afcc4a](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/0afcc4a6ff1ae7158d2772d3a258503bf423a2dd))
+* **deps:** update plugin multijvmtesting to v4 ([#4](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/4)) ([812ea2e](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/812ea2e575e1d00bae72dad03e30ed8d057af04f))
+* **deps:** update plugin multijvmtesting to v4.0.2 ([#12](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/12)) ([5ac4296](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/5ac4296e30010c0078ebbcb35f06c1ff67da5464))
+* **deps:** update plugin multijvmtesting to v4.0.3 ([#17](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/17)) ([7424b12](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/7424b12271458a3eb08771e786699d5c283e0c6c))
+* **deps:** update plugin multijvmtesting to v4.1.0 ([#19](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/19)) ([8164db8](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/8164db8130c5da37e1030a639ee93b65c01a050e))
+
+### Build and continuous integration
+
+* change release permissions ([#5](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/5)) ([6434ff3](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/6434ff3e4f57727c85ec1b8f8a14e450a57bed65))
+* **deps:** update actions/checkout action to v4.3.0 ([#6](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/6)) ([0c2e970](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/0c2e97020d10a0e75021ec5fe1ee77f2f2bbe900))
+* **deps:** update actions/checkout action to v5 ([#8](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/8)) ([553faf9](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/553faf93cefa1f29f0afee6ad443f0eda9107397))
+* **deps:** update danysk/action-checkout action to v0.2.24 ([#7](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/7)) ([5cf8c2d](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/5cf8c2d2ffa759ec96fbd8f9603fc8064df731f3))
+
+### Refactoring
+
+* extrapolate project from the alchemist main distribution ([8bd0a67](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/8bd0a67b716a736d7bc3d3ef1bb90347be18c768))
+
 ## [0.1.32](https://github.com/DanySK/Template-for-Kotlin-JVM-Projects/compare/0.1.31...0.1.32) (2025-07-06)
 
 ### Dependency updates
