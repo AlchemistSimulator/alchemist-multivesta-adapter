@@ -1,3 +1,12 @@
+## [1.2.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.1.0...1.2.0) (2025-08-25)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v42.2.11 ([#29](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/29)) ([83f50f1](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/83f50f1a08dfee49d953999e8e00e5d576ce8941))
+* **deps:** update plugin gitsemver to v6.0.2 ([#24](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/24)) ([b152dc1](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/b152dc1549de990834965e781c4aabcfaea62f37))
+* **deps:** update plugin gitsemver to v7 ([#25](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/25)) ([a67c4bf](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/a67c4bfb6382ab0ce8c0bce374551746301539bd))
+* **deps:** update plugin gitsemver to v7.0.2 ([#27](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/27)) ([270d972](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/270d9729972e3151683205797bed9a1882a26eee))
+
 ## [1.1.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.0.0...1.1.0) (2025-08-17)
 
 ### Dependency updates
