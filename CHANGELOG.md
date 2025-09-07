@@ -1,3 +1,9 @@
+## [1.6.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.5.0...1.6.0) (2025-09-07)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v42.2.17 ([#36](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/36)) ([bc33a3b](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/bc33a3b6db5dc6278b01737539da4e5313d9eb05))
+
 ## [1.5.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.4.0...1.5.0) (2025-09-06)
 
 ### Dependency updates
