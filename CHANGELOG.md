@@ -1,3 +1,17 @@
+## [1.12.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.11.0...1.12.0) (2025-10-01)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v42.3.6 ([#53](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/53)) ([070af4c](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/070af4c757d9befdaf0cfdc20e9caea8e7b701fd))
+* **deps:** update dependency ch.qos.logback:logback-classic to v1.5.19 ([#54](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/54)) ([383b7a8](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/383b7a8fc65061ca7e1437dba0fc4d9be7f39c33))
+* **deps:** update node.js to 22.20 ([#52](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/52)) ([3b195fa](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/3b195fa73f2a4f2591c350ad3827ff02329316bc))
+* **deps:** update plugin multijvmtesting to v4.1.2 ([#49](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/49)) ([6a3b035](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/6a3b035e45f2aadc34aaa4a5769e610f929d5ee0))
+* **deps:** update plugin multijvmtesting to v4.2.0 ([#50](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/50)) ([11371f9](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/11371f989eae41c7aae873fbb028e227cdbd0284))
+
+### Build and continuous integration
+
+* **deps:** update dependency macos github actions runner to v15 ([#51](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/51)) ([8d68db1](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/8d68db15e282e10f0ff47ceb2b00ab26a0ae161f))
+
 ## [1.11.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.10.0...1.11.0) (2025-09-19)
 
 ### Dependency updates
