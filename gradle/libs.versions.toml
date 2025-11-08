@@ -8,7 +8,7 @@ mockito = "5.18.0"
 alchemist = { module = "it.unibo.alchemist:alchemist", version.ref = "alchemist" }
 alchemist-loading = { module = "it.unibo.alchemist:alchemist-loading", version.ref = "alchemist" }
 apache-commons-cli = "commons-cli:commons-cli:1.9.0"
-apache-commons-io = "commons-io:commons-io:2.20.0"
+apache-commons-io = "commons-io:commons-io:2.21.0"
 guava = "com.google.guava:guava:33.5.0-jre"
 logback = "ch.qos.logback:logback-classic:1.5.20"
 kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
