@@ -10,7 +10,7 @@ alchemist-loading = { module = "it.unibo.alchemist:alchemist-loading", version.r
 apache-commons-cli = "commons-cli:commons-cli:1.9.0"
 apache-commons-io = "commons-io:commons-io:2.21.0"
 guava = "com.google.guava:guava:33.5.0-jre"
-logback = "ch.qos.logback:logback-classic:1.5.20"
+logback = "ch.qos.logback:logback-classic:1.5.21"
 kotlin-stdlib = { module = "org.jetbrains.kotlin:kotlin-stdlib", version.ref = "kotlin" }
 resourceloader = "org.danilopianini:thread-inheritable-resource-loader:0.3.8"
 
