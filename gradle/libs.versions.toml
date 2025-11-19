@@ -18,7 +18,7 @@ resourceloader = "org.danilopianini:thread-inheritable-resource-loader:0.3.8"
 
 [plugins]
 dokka = "org.jetbrains.dokka:2.0.0"
-gitSemVer = "org.danilopianini.git-sensitive-semantic-versioning:7.0.6"
+gitSemVer = "org.danilopianini.git-sensitive-semantic-versioning:7.0.7"
 kotlin-jvm = { id = "org.jetbrains.kotlin.jvm", version.ref = "kotlin" }
 kotlin-qa = "org.danilopianini.gradle-kotlin-qa:0.93.0"
 multiJvmTesting = "org.danilopianini.multi-jvm-test-plugin:4.3.2"
