@@ -1,3 +1,22 @@
+## [1.23.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.22.0...1.23.0) (2025-12-14)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v42.3.20 ([#93](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/93)) ([37c4244](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/37c4244ab602da1b926d010c52e978f98eff4d0d))
+* **deps:** update dependency ch.qos.logback:logback-classic to v1.5.22 ([#91](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/91)) ([916bc99](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/916bc9965b6702cafc61c9d88b8f226f96527958))
+* **deps:** update node.js to 24.12 ([#92](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/92)) ([6ec8bee](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/6ec8beee6dce2b212b7e154cf89685c1df170cfc))
+* **deps:** update plugin gitsemver to v7.0.7 ([#82](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/82)) ([398c78c](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/398c78c030e834281ac2dad275a252d808a4a505))
+
+### Build and continuous integration
+
+* **deps:** update actions/checkout action to v5.0.1 ([#81](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/81)) ([0261ef1](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/0261ef1af457eaf5a40de503ae7635c4d77cc295))
+* **deps:** update actions/checkout action to v6 ([#84](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/84)) ([2060b4b](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/2060b4b4c02b8a4daa829bfa0e6a23975a25c0bf))
+* **deps:** update actions/checkout action to v6.0.1 ([#87](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/87)) ([977b5e2](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/977b5e26361305ea0c767935840eabd9d4cb427c))
+* **deps:** update actions/setup-node action to v6.1.0 ([#89](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/89)) ([5424e89](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/5424e89ab7dc887d24ef22def32a663a7f36678d))
+* **deps:** update danysk/action-checkout action to v0.2.25 ([#83](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/83)) ([7647d7e](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/7647d7e5c8867dac69e73e966888c93c3bf07b94))
+* **deps:** update danysk/action-checkout action to v0.2.26 ([#85](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/85)) ([b7c02aa](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/b7c02aa3c3b930f88f99e2253e3bd8710e4c6cd8))
+* **deps:** update danysk/action-checkout action to v0.2.27 ([#88](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/88)) ([95c2473](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/95c247302494d3bf998d4bc294b36a9972d9b515))
+
 ## [1.22.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.21.0...1.22.0) (2025-11-16)
 
 ### Dependency updates
