@@ -1,3 +1,10 @@
+## [1.26.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.25.0...1.26.0) (2025-12-22)
+
+### Dependency updates
+
+* **api-deps:** update alchemist to v42.3.24 ([#100](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/100)) ([9e25708](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/9e2570849cb273e996e703baa246a19cea512be7))
+* **deps:** update dependency ch.qos.logback:logback-classic to v1.5.23 ([#99](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/issues/99)) ([518047e](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/commit/518047e9e40caafbd4c17f2551499159ae3fb131))
+
 ## [1.25.0](https://github.com/AlchemistSimulator/alchemist-multivesta-adapter/compare/1.24.0...1.25.0) (2025-12-20)
 
 ### Dependency updates
